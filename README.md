@@ -1,9 +1,9 @@
-## Modern React and Redux - Udemy Course by Stephen Grider
-## Course coverage
-# it covers React fundamental, Redux fundamental by building awesome app.
-# During this course, I've learned Redux and how to integrate Redux to React app. 
+# Modern React and Redux - Udemy Course by Stephen Grider
+# Course coverage
+it covers React fundamental, Redux fundamental by building awesome app.
+During this course, I've learned Redux and how to integrate Redux to React app. 
 
-## Libraries used
+# Libraries used
 + react
 + react Dom
 + redux
